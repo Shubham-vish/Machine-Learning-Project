@@ -4,13 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py" line="14" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61bcd7ae-a5ca-4af1-a931-feee1649327c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/._Position_Salaries.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Regression_Template/regression_template.R" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Regression_Template/regression_template.py" beforeDir="false" />
-    </list>
+    <list default="true" id="61bcd7ae-a5ca-4af1-a931-feee1649327c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,20 +13,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="data_preprocessing_template.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="e#57#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.39176956">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="data_preprocessing_template.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="290">
+                  <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+                  <folding>
+                    <element signature="e#57#75#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="regression_template.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/regression_template.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="svr.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/svr.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="479">
+                  <caret line="48" column="10" selection-end-line="48" selection-end-column="10" />
+                  <folding>
+                    <element signature="e#33#51#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="regression_template.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/regression_template.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="397">
+                  <caret line="48" column="10" lean-forward="true" selection-start-line="40" selection-start-column="79" selection-end-line="48" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,6 +97,8 @@
         <option value="$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py" />
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py" />
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py" />
+        <option value="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/svr.py" />
+        <option value="$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/regression_template.py" />
       </list>
     </option>
   </component>
@@ -95,7 +129,7 @@
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 2 - Regression" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 6 - Polynomial Regression" type="462c0819:PsiDirectoryNode" />
+              <item name="Section 7 - Support Vector Regression (SVR)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,10 +230,10 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.47192514" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14572193" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.09358289" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -236,30 +270,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/learning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -589,13 +599,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/Position_Salaries.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="290">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
           <folding>
             <element signature="e#57#75#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/svr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="48" column="10" selection-end-line="48" selection-end-column="10" />
+          <folding>
+            <element signature="e#33#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 7 - Support Vector Regression (SVR)/regression_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="40" selection-start-column="79" selection-end-line="48" selection-end-column="10" />
         </state>
       </provider>
     </entry>
