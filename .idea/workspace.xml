@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py" line="14" mnemonic="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="61bcd7ae-a5ca-4af1-a931-feee1649327c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/._Position_Salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Regression_Template/regression_template.R" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Regression_Template/regression_template.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,107 +20,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="data_preprocessing_template.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-              <folding>
-                <element signature="e#57#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Salary_Data.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/Salary_Data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data_preprocessing_template.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/data_preprocessing_template.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-              <folding>
-                <element signature="e#57#75#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiple_linear_regression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/multiple_linear_regression.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding>
-                <element signature="e#56#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Anaconda3/Machine Learning A-Z Template Folder/Lib/site-packages/statsmodels/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="data_preprocessing_template.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py">
+        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="-27">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#57#75#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="50_Startups.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="missing_data.R" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/missing_data.R">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/learning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="notebookone-checkpoint.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/.ipynb_checkpoints/notebookone-checkpoint.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="123" />
             </state>
           </provider>
         </entry>
@@ -150,6 +64,7 @@
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/multiple_linear_regression.py" />
         <option value="$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py" />
         <option value="$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py" />
+        <option value="$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py" />
       </list>
     </option>
   </component>
@@ -164,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,18 +95,13 @@
               <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
               <item name="Part 2 - Regression" type="462c0819:PsiDirectoryNode" />
-              <item name="Section 5 - Multiple Linear Regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Machine Learning A-Z Template Folder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Machine Learning A-Z Template Folder" type="462c0819:PsiDirectoryNode" />
-              <item name="Part 2 - Regression" type="462c0819:PsiDirectoryNode" />
               <item name="Section 6 - Polynomial Regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,16 +190,16 @@
     <frame x="1358" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21658097" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21915168" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3449198" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.47192514" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.328877" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14572193" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -302,31 +211,55 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35098335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" visible="true" weight="0.41530946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.5960912" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="8" visible="true" weight="0.41530946" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/50_Startups.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -607,7 +540,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/multiple_linear_regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
+        <state relative-caret-position="680">
           <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
           <folding>
             <element signature="e#56#74#0" expanded="true" />
@@ -618,23 +551,13 @@
     <entry file="file://$USER_HOME$/Anaconda3/Machine Learning A-Z Template Folder/Lib/site-packages/statsmodels/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-          <folding>
-            <element signature="e#57#75#0" expanded="true" />
-          </folding>
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 4 - Simple Linear Regression/data_preprocessing_template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="391">
           <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding>
             <element signature="e#57#75#0" expanded="true" />
@@ -644,8 +567,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 5 - Multiple Linear Regression/data_preprocessing_template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="357">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/Position_Salaries.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 1 - Data Preprocessing/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="e#57#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part 2 - Regression/Section 6 - Polynomial Regression/data_preprocessing_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#57#75#0" expanded="true" />
           </folding>
